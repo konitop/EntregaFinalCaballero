@@ -1,0 +1,181 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: #426314;
+    height: 100px;
+}
+
+header a{
+    background-color: whitesmoke;
+    padding: 10px;
+    border-radius: 5px;
+    color: rgb(0, 0, 0);
+}
+
+h1{
+    color: #101a03;
+}
+
+h2{
+    display:flex;
+    justify-content: center;
+    color:#87C232;
+    margin:2%;
+    padding:2%;
+    background-color: #050605;
+}
+
+h3{
+    color:#101a03;
+    display:flex;
+    text-align: center;
+    margin-top: 15%;
+}
+
+#gracias{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color:#87C232;
+    margin:2%;
+    padding:2%;
+    background-color: #050605;
+}
+
+
+body{
+    background-color:#121415;
+}
+
+img{
+    border-radius: 30px;
+    margin-top: 20%;
+    margin-bottom: 10%;
+    width:150px;
+    height:150px;
+}
+
+.boton{
+    display:flex;
+    background-color: #101a03;
+    color:#87C232;
+    border: 2px solid #87C232;
+    margin:1%;
+}
+
+.comeback{
+    display: flex;
+    color:#e1f6c4;
+    background-color: #426314;
+    flex-direction: column;
+    align-items: center;
+    width: auto;
+    height: auto;
+    margin: 30px;
+    padding: 10px;
+    border: 2px solid #87C232;
+    border-radius: 10px;
+}
+
+.container-input{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+input[type="text"]{
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #2b312c;
+    color: whitesmoke;
+    border: 2px solid #87C232;
+    width: 300px;
+}
+
+#container-juegos{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+#container-carrito{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+
+
+.juego{
+    display: flex;
+    flex-direction: column;
+    background-color: #87C232;
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid rgb(206, 255, 210);
+    border-radius: 20px;
+    width: 200px;
+    height: 400px;
+}
+
+.juegoencarrito{
+    height: 450px;
+}
+
+
+.container-botones{
+    display: flex;
+    justify-content: center;
+    gap: 10%;
+    margin-top:10%;
+    margin-bottom: 10%;
+}
+
+
+button{
+    background-color: #101a03;
+    color:rgb(240, 255, 245);
+    padding:5px;
+    margin-top: auto;
+    border-radius: 40px;
+}
+button:hover{
+    background-color:#5e227a;
+    border-color: #b163cd;
+    cursor:pointer;
+}
+
+#cantidad{
+    font-weight: bold;
+    align-items: center;
+    margin-top:auto;
+}
+
+.disabled-button{
+    background-color: #3f423f;
+}
+
+.disabled-button:hover{
+    background-color:#3f423f;
+    border-color:#575757 ;
+    cursor:not-allowed;
+}
+
