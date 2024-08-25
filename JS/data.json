@@ -15,7 +15,7 @@
             "id":3,
             "title": "NieR Automata", 
             "price": "34.99", 
-            "image": "https://via.placeholder.com/150"
+            "image": "../img/helado_frutal.jpg"
     },
     {
             "id":4,
