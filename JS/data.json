@@ -3,60 +3,60 @@
             "id":1,
             "title": "League of Legends", 
             "price": "0 - gratis", 
-            "image": "https://via.placeholder.com/150"
+            "image": "../img/leagueoflegends.jpg"
     },
     {
             "id":2,
             "title": "Valorant", 
             "price": "0 - gratis", 
-            "image": "https://via.placeholder.com/150"
+            "image": "../img/valorant.jpg"
     },
     {
             "id":3,
             "title": "NieR Automata", 
             "price": "34.99", 
-            "image": "../img/helado_frutal.jpg"
+            "image": "../img/nierautomata.jpg"
     },
     {
             "id":4,
             "title": "Dark Souls", 
             "price": "20.00", 
-            "image": "https://via.placeholder.com/150"
+            "image": "../img/darksouls.jpg"
     },
     {
             "id":5,
             "title": "Minecraft", 
             "price": "25.00", 
-            "image": "https://via.placeholder.com/150"
+            "image": "../img/minecraft.jpg"
     },
     {
             "id":6,
             "title": "Five Nights At Freddy's", 
             "price": "5.00", 
-            "image": "https://via.placeholder.com/150"
+            "image": "../img/fnaf.jpg"
     },
     {
             "id":7,
             "title": "Bloodborne", 
             "price": "20.00", 
-            "image": "https://via.placeholder.com/150"
+            "image": "../img/bloodborne.jpg"
     },
     {
             "id":8,
             "title": "Super Smash Bros", 
             "price": "50.00",  
-            "image": "https://via.placeholder.com/150"
+            "image": "../img/smashbros.jpg"
     },
     {
             "id":9,
             "title": "The Legend Of Zelda", 
             "price": "20.00",  
-            "image": "https://via.placeholder.com/150"
+            "image": "../img/tloz.jpg"
     },
     {
             "id":10,
             "title": "Honkai Star Rail", 
             "price": "0 - gratis", 
-            "image": "https://via.placeholder.com/150"
+            "image": "../img/honkai.jpg"
     }
 ]
